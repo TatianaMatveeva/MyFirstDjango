@@ -1,0 +1,3 @@
+# MyFirstDjango
+
+I am trying...
